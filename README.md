@@ -34,8 +34,8 @@ pip install numpy pandas yfinance tensorflow scikit-learn matplotlib seaborn
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/siddhunayak/stock_forecasting.git
-   cd stock_forecasting
+   git clone https://github.com/varshinivarma16/stock-Market-forecasting.git
+   cd stock-Market-forecasting
    ```
 
 2. **Install Dependencies**:
